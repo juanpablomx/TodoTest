@@ -1,0 +1,3 @@
+[submodule "zozo/awesome-machine-learning"]
+	path = zozo/awesome-machine-learning
+	url = https://github.com/josephmisiti/awesome-machine-learning
